@@ -5,6 +5,7 @@ body{
     background-position-y: top;
     background-size: 21rem;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 .img0{
     margin-top: 5rem;
@@ -14,26 +15,26 @@ body{
 }
 .over-img{
     position: absolute;
-    top: 27%;
-    left: 78%;
+    top: 11rem;
+    left: 66.5rem;
     display: none;
 }
 .over-img2{
     position: absolute;
-    top: 27%;
-    left: 75.5%;
+    top: 11rem;
+    left: 64.5rem;
     display: none;
 }
 .over-img3{
     position: absolute;
-    top: 27%;
-    left: 70%;
+    top: 11rem;
+    left: 60rem;
     display: none;
 }
 .over-img4{
     position: absolute;
-    top: 28%;
-    left: 68%;
+    top: 11.2rem;
+    left: 58.3rem;
     display: none;
 }
 .fade-in {
