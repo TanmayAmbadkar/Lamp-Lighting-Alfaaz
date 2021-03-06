@@ -5,6 +5,7 @@ body{
     background-position-y: top;
     background-size: 21rem;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 .img0{
     margin-top: 5rem;
