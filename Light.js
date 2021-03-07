@@ -12,10 +12,6 @@ function myFunction(){
     b.style.display = "block";
     var element = document.getElementById("mydiv");
     element.classList.add("pyro");
-    setTimeout(function(){
-      element.classList.remove("pyro");
-    },5000)
-
 }
 
 function myFunc() {
