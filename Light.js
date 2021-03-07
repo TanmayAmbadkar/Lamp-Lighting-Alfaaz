@@ -10,8 +10,7 @@ function myFunction(){
     a.style.display = "block";
     z.style.display = "block";
     b.style.display = "block";
-    var element = document.getElementById("mydiv");
-    element.classList.add("pyro");
+
 }
 
 function myFunc() {
